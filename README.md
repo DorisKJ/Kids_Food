@@ -1,2 +1,2 @@
 # Kids_Food
-Infant and toddler foods purchased in the Ottawa, Ontario and Gatineau, Quebec areas between April 1, 2017 and March 31, 2018, were analyzed. The sample consisted of infant cereal, fruit and vegetable purees, grain-based snacks and juices. They were analyzed for pesticide residues and metals (in juice only).
+Infant and toddler foods purchased in the Ottawa, Ontario and Gatineau, Quebec areas between April 1, 2017 and March 31, 2018, were analyzed. The sample consisted of infant cereal, fruit and vegetable purees, grain-based snacks and juices. They were analyzed for pesticide residues and metals (in juice only). This data can be found in the government of Canada's open [database](https://open.canada.ca/data/en/dataset/61a82716-e863-4c20-b1a7-c8e05e70e72d).
